@@ -1,6 +1,6 @@
 {
-    "name": "flicker/restsplain",
-    "version": "1.0.0",
+    "name": "flickerleap/restsplain",
+    "version": "1.0.1",
     "description": "Fork of HumanMade/Restsplain",
     "type": "library",
     "license": "GPL-3.0",
