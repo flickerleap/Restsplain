@@ -1,15 +1,15 @@
 {
-    "name": "flickerleap/restsplain",
-    "version": "1.0.1",
-    "description": "Fork of HumanMade/Restsplain",
-    "type": "library",
-    "license": "GPL-3.0",
-    "authors": [
-        {
-            "name": "Matthew Dalton",
-            "email": "matt@flickerleap.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+  "name": "flickerleap/restsplain",
+  "version": "1.0.2",
+  "description": "Fork of HumanMade/Restsplain",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Matthew Dalton",
+      "email": "matt@flickerleap.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
 }
